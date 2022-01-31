@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-three-state-counter/static/css/main.aa18929c.css",
+    "main.js": "/React-three-state-counter/static/js/main.336f8f37.js",
+    "static/js/787.dc9fd3fe.chunk.js": "/React-three-state-counter/static/js/787.dc9fd3fe.chunk.js",
+    "index.html": "/React-three-state-counter/index.html",
+    "main.aa18929c.css.map": "/React-three-state-counter/static/css/main.aa18929c.css.map",
+    "main.336f8f37.js.map": "/React-three-state-counter/static/js/main.336f8f37.js.map",
+    "787.dc9fd3fe.chunk.js.map": "/React-three-state-counter/static/js/787.dc9fd3fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa18929c.css",
+    "static/js/main.336f8f37.js"
+  ]
+}
